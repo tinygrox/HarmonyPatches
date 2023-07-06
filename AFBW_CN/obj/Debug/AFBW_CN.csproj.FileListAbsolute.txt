@@ -1,0 +1,6 @@
+H:\Kerbal Mods\Kerbal Space Program\GameData\AFBW_CN.dll
+H:\Kerbal Mods\Kerbal Space Program\GameData\AFBW_CN.pdb
+H:\Kerbal Mods\HarmonyPatches\AFBW_CN\obj\Debug\AFBW_CN.csproj.AssemblyReference.cache
+H:\Kerbal Mods\HarmonyPatches\AFBW_CN\obj\Debug\AFBW_CN.csproj.CoreCompileInputs.cache
+H:\Kerbal Mods\HarmonyPatches\AFBW_CN\obj\Debug\AFBW_CN.dll
+H:\Kerbal Mods\HarmonyPatches\AFBW_CN\obj\Debug\AFBW_CN.pdb
