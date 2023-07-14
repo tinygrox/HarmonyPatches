@@ -19,6 +19,8 @@
 
 - **Advanced Fly-By-Wire (Windows)** - [GitHub链接](https://github.com/linuxgurugamer/ksp-advanced-flybywire)
 
+- **[x] Science! Continued** - [GitHub链接](https://github.com/linuxgurugamer/KSP-X-Science)
 
+## 更新日志
 
-目前只做了这一个，以后再说
+23/07/15新增对 **[x] Science! Continued** 支持
